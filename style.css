@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: skyblue;
+}
+
+.kill2 {
+    text-align:center;
+}
+
+.kill3 {
+    font-size: 25px;
+    color:red;
+    margin-left: 109px ;
+}
+
+ul li {
+    margin-left: 109px;
+    font-size: 20px;
+}
+
+.kill4 {
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    text-align: center;
+    padding: 20px;
+}
+
+footer {
+    background-color: #6B42FF;
+    color:white;
+    padding: 1px;
+}
+
+.kill {
+    padding-left: 30px;
+}
